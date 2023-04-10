@@ -1,0 +1,26 @@
+{
+  "name": "first_node_program",
+  "version": "1.0.0",
+  "description": "first javascript packge using to learn npm tbh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsimovNo9/jsss.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Adedamola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsimovNo9/jsss/issues"
+  },
+  "homepage": "https://github.com/AsimovNo9/jsss#readme",
+  "dependencies": {
+    "funny-log": "^0.0.9",
+    "superhero-name-library": "^1.2.2"
+  }
+}
