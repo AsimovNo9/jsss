@@ -1,0 +1,14 @@
+{
+  "name": "js-calculator",
+  "version": "1.0.0",
+  "description": "Calculator project from Angela Yu Course",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adedamola Sode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
